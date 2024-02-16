@@ -1,4 +1,4 @@
-## Sora OpenAI
+# Sora OpenAI
 Introducing SORA, a cutting-edge AI model developed by OpenAI that brings text-to-video generation to a whole new level. SORA can transform simple text instructions into stunning, lifelike videos, allowing users to visualize their ideas with remarkable accuracy.
 
 Sora Video AI: https://soravideo.ai
